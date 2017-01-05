@@ -1,6 +1,4 @@
 "# git-tutorial" 
 
 
-sdssdds aa  fsfrgsdfgsdrg
-
-Min1aProjekt
+har skall vi skapa ett angular projekt
